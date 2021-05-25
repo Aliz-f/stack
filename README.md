@@ -1,2 +1,2 @@
 # stack
-8bit stack implementation in vhdl language
+4bit stack implementation in vhdl language
